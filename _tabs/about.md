@@ -37,7 +37,7 @@ Webi는 비즈니스 환경에 최적화된 맞춤형 솔루션을 제공합니�
 | **Frontend** | `React`, `TypeScript`, `Next.js`                |
 | **Mobile** | `React Native`, `Swift`, `Kotlin`               |
 | **DevOps** | `NCP`, `GCP`, `AWS`, `Docker`, `GitHub Actions` |
-| **Database** | `MySQL`, `Redis`, `MongoDB`                     |
+| **Database** | `MySQL`, `Postgre`, `Oracle`, `Redis`, `MongoDB` |
 
 <br>
 
