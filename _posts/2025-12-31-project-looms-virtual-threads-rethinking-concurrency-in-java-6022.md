@@ -196,5 +196,4 @@ Java 21에서 Virtual Threads는 I/O 바운드 애플리케이션에 대해 프�
 
 Java 24+에서 초기 피닝 제한이 해결되면서, Virtual Threads는 Go와 Kotlin 같이 오랫동안 경량 동시성 프리미티브를 제공해온 언어들과 Java를 경쟁력 있게 만듭니다. 이는 종착점이 아니라 새로운 시작입니다. Java의 강점을 보존하면서 역사적인 동시성 제한을 해결하는 더 단순하고 확장 가능한 Java 애플리케이션을 위한 기반입니다.
 
-> [원문 기사 보기](https://www.javacodegeeks.com/2025/12/project-looms-virtual-threads-rethinking-concurrency-in-java.html)
 > <a href="https://www.javacodegeeks.com/2025/12/project-looms-virtual-threads-rethinking-concurrency-in-java.html" target="_blank" rel="noopener noreferrer">원문 기사 보기</a>
