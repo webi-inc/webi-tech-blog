@@ -77,4 +77,4 @@ Meta와 Yahoo의 새로운 서비스 출시는 AI 기반 검색 알고리즘과 
 
 퍼포먼스 마케팅과 브랜드 광고의 경계가 모호해지면서, 개발자들은 크로스 플랫폼 어트리뷰션, 실시간 최적화, 그리고 향상된 측정 도구를 구현하는 통합 광고 기술 솔루션을 개발해야 합니다.
 
-> <a href="http://www.adexchanger.com/daily-news-roundup/wednesday-28012026/" target="_blank" rel="noopener noreferrer">원문 기사 보기</a>
+> <a href="https://www.adexchanger.com/daily-news-roundup/wednesday-28012026/" target="_blank" rel="noopener noreferrer">원문 기사 보기</a>
